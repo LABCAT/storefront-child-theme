@@ -1,6 +1,6 @@
 # Worst Checkout Ever
 
-The Worst Checkout Ever is a starter blank child theme for WooThemes StoreFront WooCommerce theme.
+The Worst Checkout Ever theme was create as part of a UX design project to design the worst UX interaction conceivable.
 
 ## Installation
 
@@ -12,9 +12,29 @@ The Worst Checkout Ever is a starter blank child theme for WooThemes StoreFront 
 
 ## Usage
 
-This child theme is designed to be used as a starter theme for the WooCommerce StoreFront theme which you can download for free below.
+The goal of this theme is modify the WooCommerce checkout experience in order to provide the worst experience possible. I would not recommend using this theme on a site that you actually want to be successful.
 
-* [Download WooCommerce StoreFront Theme](https://wordpress.org/themes/storefront/)
+This theme requires the WooCommerce plugin and StoreFront theme to be installed in order to work.
+
+## References
+
+Automattic (n.d) Storefront [WordPress theme]. Retrieved September 18, 2018, from:
+https://wordpress.org/themes/storefront/
+
+Automattic (n.d) WooCommerce [WordPress plugin]. Retrieved September 18, 2018, from:
+https://en-nz.wordpress.org/plugins/woocommerce/
+
+WooCommerce (n.d) WooCommerce PayPal Checkout Payment Gateway [WordPress plugin]. Retrieved September 18, 2018, from:
+https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/
+
+WooCommerce (n.d) WooCommerce Stripe Payment Gateway [WordPress plugin]. Retrieved September 20, 2018, from:
+https://wordpress.org/plugins/woocommerce-gateway-stripe/
+
+WordPress (n.d) WordPress [Computer software]. Retrieved September 18, 2018, from:
+https://wordpress.org/download/
 
 
-The blank child theme itself has no functionality and if you would like to learn more about child themes for WordPress see this documentation below.
+## To Do
+
+3. Make every field a required field
+8. Add random question that user would need to research the answer of (make required)
