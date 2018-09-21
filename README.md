@@ -36,5 +36,4 @@ https://wordpress.org/download/
 
 ## To Do
 
-3. Make every field a required field
-8. Add random question that user would need to research the answer of (make required)
+1. consider: https://neilpatel.com/blog/first-step-of-checkout/
